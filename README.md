@@ -2,7 +2,7 @@
 
 主要是封装了[m-cascader](https://github.com/react-component/m-cascader)组件。一个级联的地区选择器组件。
 
-使用：
+例子查看：
 ```
   yarn install
   yarn start
