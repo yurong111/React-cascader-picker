@@ -16,6 +16,8 @@ props属性有：
   onScrollChange  //滚动选择事件
   onDismiss       //取消选择事件
   togglePicker    //切换显示事件
+  okText          //确定按钮文案
+  dismissText     //取消按钮文案
 ```
 
 ![图片](http://p79ehl37l.bkt.clouddn.com/react/cascaderPicker1.png)
