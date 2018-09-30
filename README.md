@@ -17,4 +17,5 @@ props属性有：
   onDismiss       //取消选择事件
   togglePicker    //切换显示事件
 ```
-![图片]](http://p79ehl37l.bkt.clouddn.com/react/cascaderPicker1.png)
+
+![图片](http://p79ehl37l.bkt.clouddn.com/react/cascaderPicker1.png)
